@@ -1,4 +1,2 @@
-streamlit==1.11.0
-
--r https://raw.githubusercontent.com/snowflakedb/snowflake-connector-python/v2.7.9/tested_requirements/requirements_37.reqs 9
-snowflake-connector-python==2.7.9
+snowflake-connector-python==3.0.2
+streamlit==1.20.0
